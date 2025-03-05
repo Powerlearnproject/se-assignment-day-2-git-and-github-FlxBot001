@@ -153,9 +153,13 @@ Common Pitfalls:
 Best Practices for Effective Collaboration:
 
 ✅ Use clear and descriptive commit messages (e.g., "Fixed login authentication issue").
+
 ✅ Follow branching strategies (e.g., Git Flow) to maintain an organized workflow.
+
 ✅ Use pull requests to ensure quality and review before merging changes.
+
 ✅ Regularly pull updates from the main branch to prevent conflicts.
+
 ✅ Utilize .gitignore files to exclude unnecessary files (e.g., node_modules/, logs/).
 
 By adhering to these best practices, developers can ensure seamless collaboration and efficient version control.
